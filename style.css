@@ -1,0 +1,25 @@
+#head{
+text-align: center;
+}
+.mainWork{
+    text-align: center;
+    color:tomato;
+}
+.img{
+    height: 50%;
+    width: 50%;
+}
+.fot{
+    text-align: center;
+
+    display: flex;
+    text-decoration: none;
+    background-color: salmon;
+}
+.fothad{
+    text-align: center;
+    padding-top: 50px;
+    color: tomato;
+    font-size: large;
+    background-color: skyblue;
+}
